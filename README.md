@@ -32,7 +32,6 @@ flowchart TD
     Q -->|PoC, Evidence, Impact, Reproduction| R[Report]
 ```
 
-*(This diagram renders automatically on GitHub. If viewing elsewhere, see the text version below.)*
 
 <details>
 <summary>Text version</summary>
